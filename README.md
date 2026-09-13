@@ -9,6 +9,4 @@ A bright, mobile-friendly Linktree-style page .
 - `srijana-profile.jpg` — profile photo
 - `Srijana_Sah_Resume.pdf` — resume
 
-## Important
-The **My Portfolio** button intentionally points to the first portfolio version (the one without the profile photo):
-`https://srijana219.github.io/srijana-sah-portfolio/`
+
