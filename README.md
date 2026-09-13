@@ -1,6 +1,6 @@
 # Srijana Sah — LinkTree Style Page
 
-A bright, mobile-friendly Linktree-style page for Srijana Sah.
+A bright, mobile-friendly Linktree-style page .
 
 ## Files
 - `index.html` — page structure and links
